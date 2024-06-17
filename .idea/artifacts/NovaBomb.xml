@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NovaBomb">
+    <output-path>$PROJECT_DIR$/out/artifacts/NovaBomb</output-path>
+    <root id="archive" name="NovaBomb.jar">
+      <element id="module-output" name="NovaBomb" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,33 @@
+##########################
+# NovaBomb Plugin Config #
+##########################
+
+# Number of ticks to make the blocks move in a straight
+# direction when the nova bomb is initially created.
+ticks-to-launch: 5
+
+# Number of ticks to make the blocks orbit around the center
+# of orbit. Center of orbit is defined by launch-height.
+ticks-to-orbit: 120
+
+# How far to the side the blocks should launch during the
+# initial phase. This is a multiplier, not a specific number
+# of blocks. Higher values will result in a launch direction
+# that is closer to horizontal.
+launch-to-side-multiplier: 2
+
+# How high the center of orbit should be compared to where
+# the clicked block is. A value of 0 means that all the
+# blocks will orbit around the location of the block
+# that is clicked.
+launch-height: 10
+
+# The radius of the sphere to turn into a nova bomb. Setting
+# this to higher values can produce a significant amount of
+# lag, so be careful with increasing this value.
+block-radius: 5
+
+# How far away the player can be from a block to create
+# a nova bomb by left-clicking it.
+player-reach: 150
+
