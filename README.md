@@ -1,4 +1,4 @@
-# mc-nova-bomb
+# Nova Bomb (Minecraft plugin)
 
 ![](media/nova_bomb_1.png)
 
