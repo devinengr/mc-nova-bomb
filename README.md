@@ -1,8 +1,6 @@
 # Nova Bomb (Minecraft plugin)
 
-![](media/nova_bomb_1.png)
-
-![](media/nova_bomb_2.png)
+![](media/mc_nova_bomb.gif)
 
 # Requirements
 
